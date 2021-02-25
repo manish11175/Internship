@@ -1,0 +1,178 @@
+
+    #leftdiv{
+      
+        background: transparent linear-gradient(140deg, #58CFE6 0%, #366BB1 100%) 0% 0% no-repeat padding-box;
+        box-shadow: 4px 0px 6px #00000029;
+        }
+        .right-div{
+            
+            box-shadow: 4px 0px 6px #00000029;
+        }
+        
+        .heading{
+        font: normal normal bold 30px/33px Gotham;
+        letter-spacing: 0px;
+        color: #36639E;
+        font-weight: bold;
+        text-align: justify;
+        
+        }
+        .sub-heading{
+        font: normal normal medium 16px/18px Gotham;
+        letter-spacing: 0px;
+        color: #A5A5A5;
+        font-weight: bold;
+        }
+        .form-label{
+        font-weight: bold;
+        font: normal normal medium 18px/20px Gotham;
+        letter-spacing: 0px;
+        color: #363636;
+        opacity: 1;
+        margin-inline-end: 5px;
+        }
+        .form-input{
+            width: 350px;
+            height:45px;
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+            box-shadow: 0px 1px 5px #C3DFE4;
+            border: 3px solid #58CFE6;
+            border-radius: 4px;
+            opacity: 1;
+        }
+        .form-input:focus {
+            width: 300px;
+            height: 45px;
+            background: #FFFFFF 0% 0% no-repeat padding-box;
+            box-shadow: 0px 1px 5px #c3dfe4;
+            border: 3px solid #58CFE6;
+            border-radius: 4px;
+            opacity: 1;
+        }
+        
+        .button {
+            box-shadow: 0px 3px 7px #C9E4E9;
+            border-radius: 5px;
+            border: none;
+            color: white;
+            font-weight: bold;
+            padding: 10px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+          }
+          .button1 {
+              background-color: #FF6F5E;
+              margin-left: 100px;} 
+        .policy {
+            
+            width:300px;
+            text-align: center;
+            font-size: 13px;
+            font-weight: bold;
+            color: #A5A5A5;
+        }
+        #footer{
+            background-color:#eee8e8;
+            margin-bottom: 20px;
+            font-size:12px;
+            padding:15px;
+            box-shadow: 4px 0px 6px #00000029;
+        }
+/* 
+        ///////////////// */
+
+@media(min-width:500px)
+{
+    .container{
+        margin-top: 30px;
+    }
+    
+    
+    #leftdiv{
+      
+    background: transparent linear-gradient(140deg, #58CFE6 0%, #366BB1 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 4px 0px 6px #00000029;
+    }
+    .right-div{
+        
+        box-shadow: 4px 0px 6px #00000029;
+    }
+    .content{
+        margin-left: 100px;
+    }
+    .heading{
+    font: normal normal bold 30px/33px Gotham;
+    letter-spacing: 0px;
+    color: #36639E;
+    font-weight: bold;
+    text-align: justify;
+    
+    }
+    .sub-heading{
+    font: normal normal medium 16px/18px Gotham;
+    letter-spacing: 0px;
+    color: #A5A5A5;
+    font-weight: bold;
+    }
+    .form-label{
+    font-weight: bold;
+    font: normal normal medium 18px/20px Gotham;
+    letter-spacing: 0px;
+    color: #363636;
+    opacity: 1;
+    margin-inline-end: 5px;
+    }
+    .form-input{
+        width: 350px;
+        height:45px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 1px 5px #C3DFE4;
+        border: 3px solid #58CFE6;
+        border-radius: 4px;
+        opacity: 1;
+    }
+    .form-input:focus {
+        width: 350px;
+        height: 45px;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 1px 5px #c3dfe4;
+        border: 3px solid #58CFE6;
+        border-radius: 4px;
+        opacity: 1;
+    }
+    
+    .button {
+        box-shadow: 0px 3px 7px #C9E4E9;
+        border-radius: 5px;
+        border: none;
+        color: white;
+        font-weight: bold;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+      .button1 {
+          background-color: #FF6F5E;
+          margin-left: 100px;} 
+    .policy {
+        
+        width:300px;
+        text-align: center;
+        font-size: 13px;
+        font-weight: bold;
+        color: #A5A5A5;
+    }
+    #footer{
+        background-color:#eee8e8;
+        margin-right: 50px;
+        margin-left: 50px;
+        font-size:12px;
+        padding:15px;
+        box-shadow: 4px 0px 6px #00000029;
+    }
+ 
+}
